@@ -1,0 +1,28 @@
+.aa{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: yellow;
+}
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: red;
+}
+.aa{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: yellow;
+}

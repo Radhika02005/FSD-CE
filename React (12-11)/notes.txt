@@ -1,0 +1,66 @@
+Jorden 
+2011 -> 2013
+0.3.0 -> 0.3.1 (1-> pactes 3->minor 0->major) #used in dependency
+X Y Z 
+
+React is the JS library not the framework
+
+very fast 
+current version = 18.3.1
+single page application
+
+only one single single html page
+
+make function and reuse multiple times with different values
+mobile application - raect native
+library application - react & react DOM
+
+2 possible ways 1.CDN 2.Bundler(1.CRA(Webpack) 2.Parcel(Parcel) 3.Vite(ESbuilt) )
+CDN - not install on local 
+content delivery network 
+distributed servers 
+
+CDN:
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+reconsillation process - diffing algorthim 
+inn this algo 2 virtual dom are made in 2nd copy changes are done 
+then see the chsages then changed
+
+react for rendering
+reeact dom for diffing algo and the virtual dom
+
+
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+bable converts the html code into react
+
+react.dev
+
+npm run dev - to start the process
+
+
+rafce - if extension done - for component
+
+npm create vite @latest
+npm install
+
+1.react
+2.raect dom
+3.babel
+
+STATES:
+hooks 
+useState
+useEffect
+useContext
+useReducer
+useCallback
+
+
+Lifecycle
+1. create
+2. mount
+3. update
+4. reomove
+
