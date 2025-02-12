@@ -1,5 +1,5 @@
 function getData() {
-  const token = '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';
+  // const token = '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';
 
   fetch("https://api.github.com/users/Radhika02005", {
     headers: {
